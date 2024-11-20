@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Giulia Mazzola, PhD"
+  navbar:
+    search: true
+    left:
+      - href: index.qmd
+        text: "Home"
+      - href: bio.qmd
+        text: "Bio"
+      - href: publications.qmd
+        text: "Publications"
+      - href: projects.qmd
+        text: "Projects"
+      - href: blogging.qmd
+        text: "Blogging"
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true
+
+editor: visual
+
+
