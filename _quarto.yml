@@ -3,24 +3,41 @@ project:
   output-dir: docs
 
 website:
-  title: "Giulia Mazzola, PhD"
+  title: "Dr. Giulia Mazzola"
   navbar:
     search: true
     left:
       - href: index.qmd
         text: "Home"
-      - href: bio.qmd
-        text: "Bio"
+      - href: about.qmd
+        text: "About"
       - href: publications.qmd
         text: "Publications"
       - href: projects.qmd
         text: "Projects"
       - href: blogging.qmd
         text: "Blogging"
+    
+    right:
+      - text: "{{< iconify ph:linktree-logo-bold >}}"
+        href: https://linktr.ee/giuliamazzola?utm_source=linktree_profile_share&ltsid=0fb51926-389d-4086-86d5-8f1fbebd46f8 
+      - icon: linkedin
+        href: https://www.linkedin.com/in/giulia-mazzola-0a39aa115/
+      - icon: envelope
+        href: "mailto:giulia.mazzola@ncl.ac.uk"   
+      - text: "{{< iconify la:orcid >}}"
+        href: https://orcid.org/0000-0002-7532-8671
+      - text: "{{< iconify academicons:google-scholar >}}"
+        aria-label: "Google Scholar"
+        href: https://scholar.google.com/citations?user=wPm6VMAAAAAJ&hl=en&oi=sra 
 
 format:
   html:
     theme: minty
+    anchor-sections: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    link-external-icon: false
     css: styles.css
     toc: true
 

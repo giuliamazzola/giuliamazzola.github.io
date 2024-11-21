@@ -1,9 +1,32 @@
----
-title: "About"
----
 
-About this site
+# My vision
 
-```{r}
-1 + 1
-```
+As a language student, I was often struck by the overwhelming number of exceptions that came with rules. I soon learned that languages exhibit a **gradient behaviour**, and rules can just capture the endpoints of a continuum of possibilities\
+\
+The core of my research on language variation and change focuses on the “unexplored middle ground” between what is certainly possible and what is highly unlikely or impossible. From a probabilistic perspective, speakers have a statistical knowledge driving their choice of alternative linguistic forms in subtle ways. I investigate all aspects influencing the **variation and the trajectories of language change**: human processing abilities, frequency patterns, contextual features, social and discourse-pragmatic conventions.
+
+# About me
+
+## Indialetto
+
+I was born and raised in Palermo (IT), where I lived until I was 22 years old. My Sicilian roots and background are very important to me and to my identity. I grew up in a sunny and warm place, in a chaotic city, full of colors, scents and problems. My island has been a crossroad of cultures and languages, and I regard this mixture as the very core of Sicilianity. In this context, I was raised monolingual (at least in theory) as my main language is Italian. Sicilian was spoken all around me, my grandparents were regularly using it, as well as many adults in my life, especially to express anger or irony. Moreover, I could hear it on the street, some other kids could speak it too, and I could understand it very well. But I was forbidden to use it: *Parla bene*! *Non parlare in dialetto*! When I was little, I thought *Indialetto* was the name of that forbidden language. It was forbidden because it was vulgar and wrong, typical of illiterate and rude people, especially inappropriate if used by women.
+
+In line with the teenage rebellion, when I was in high school I started using the forbidden language, but since I was not completely fluent, my vocabulary was and still is heavily influenced by Italian. My Italian, in turn, is enriched by Sicilian calques and loans, and it is characterised by a Palermitan accent, of which I am very proud.
+
+Already as a kid, I was fascinated by languages. I was often asking questions to my cousin (who grew up in Northern Italy) about how she would say certain words, comparing vocabulary and pronunciations in our varieties. I found that amusing, definitely much more than she did. I also wondered whether people who spoke multiple languages knew *all the words* in all of them. My dad had spent some time in England in his 20s, so I used to ask him if he knew random words in English, making endless lists of names of the objects I could see around me: do you know how to say *quadro*, *scala*, *armadio*, *caffettiera*, etc.
+
+When I finally started studying English, at the age of 11, I dove into it, and never had enough. I was extremely excited by the idea that I could become fluent, and multiply the possibilities of thinking and expressing thoughts. It became my main dream.
+
+## Discovering Linguistics
+
+I have always been a language nerd, since the day I started studying my first foreign language (English). Following my passion, in highschool (*liceo linguistico*), I studied English, Spanish, French and Latin, alongside Italian, my native language. I have first met linguistics during my undergrads in Modern Languages and Literature at the University of Palermo. The day I bought my first linguistics handbook I was thrilled by the idea of learning everything about languages and how they work. I obtained my BA degree in 2014 with a final work on the grammaticalisation of discourse markers (focussing on a comparison between English and Spanish case studies from the literature). This topic sparkled my interest for language change, which has been my main research focus since then.
+
+Linguistics became my main academic interests, therefore I decided to pursue a Research Master's degree at Leiden University (2014-2018), which gave me the opportunity to get to know a broad variety of different linguistic frameworks and sub-disciplines. Thanks to the excellent program, the many LOT schools, and the professional guidance of the lecturers, I learn a lot and explored this discipline from different angles. During my MA, I also taught Italian as a foreign and second language to bilingual children, bachelor students and adults. In my MA thesis, I conducted a corpus study of private letters in 17th and 18th century Dutch, analysing the sociolinguistic factors behind the historical alternation between the variants *mij* and *mijn* as object pronouns.
+
+After my MA degree (2018), I moved to Belgium and joined the research project *Beyond the clause: enconding and inference in clause-combining* at KU Leuven, as a PhD student. In 2022 I defended my doctoral dissertation entitled *Syndetic and asyndetic complementation in Spanish a diachronic probabilistic account*.
+
+## Today
+
+I am currently part of the research team of the Leverhulme Trust funded project "How autonomous is syntax? A case study of Romance causation and perception" (PI prof. [Michelle Sheehan](https://www.ncl.ac.uk/elll/people/profile/michellesheehan1.html)) on the syntax and semantics of causative and perception verbs, with a focus on micro variation across Romance varieties. The main aim of the project is to investigate the transparency of the syntax/semantics mapping in relation to causative (‘make’/‘let’) and perception verbs (‘see’/‘hear’/‘watch’) across Romance. Within this research team I am responsible for the data collection and analysis of Ibero-romance and Italo-romance varieties.
+
+To learn more about this project, visit the [CauRPe website](https://www.caurpe.org/home).

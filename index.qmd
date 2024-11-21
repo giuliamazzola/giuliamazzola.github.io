@@ -1,30 +1,47 @@
 ---
 title: "Dr. Giulia Mazzola"
-subtitle: Linguist
-abstract: | 
-          *she, lei, ella, idda, zij*
+abstract: "['dʒuːlja mat'tso:la]
+| *she, lei, ella, idda, zij*"
+subtitle: "Linguist - expert in Corpus Linguistics and Romance languages"
 abstract-title: ""
 bibliography: publications.bib
+
+about:
+  template: trestles
+  id: about-block
+  image: "img/portrait.jpg"
+  image-width: 11em
+  links:
+    - text: "{{< iconify ph:linktree-logo-bold >}}"
+      href: https://linktr.ee/giuliamazzola?utm_source=linktree_profile_share&ltsid=0fb51926-389d-4086-86d5-8f1fbebd46f8 
+    - icon: linkedin
+      href: https://www.linkedin.com/in/giulia-mazzola-0a39aa115/
+    - icon: envelope
+      href: "mailto:giulia.mazzola@ncl.ac.uk"   
+    - text: "{{< iconify la:orcid >}}"
+      href: https://orcid.org/0000-0002-7532-8671
+    - text: "{{< iconify academicons:google-scholar >}}"
+      aria-label: "Google Scholar"
+      href: https://scholar.google.com/citations?user=wPm6VMAAAAAJ&hl=en&oi=sra 
+
+
+
 ---
 
-::: grid
-::: g-col-9
-::: {.callout-tip appearance="minimal" icon="false"}
-**Research Associate at Newcastle University** ([Orcid](https://orcid.org/0000-0002-7532-8671))
+::: {#hero-heading}
 
-I am a linguist, with expertise in Romance languages, corpus linguistics, language variation and change, historical (socio-)linguistic**s.**
 
-**Main research topics:** clause-combining, morphosyntactic alternations, voice-encoding strategies, stylistic and textual variation, quantitative methods for corpus linguistics.
+I am a linguist, currently [**Research Associate at Newcastle University**](https://www.ncl.ac.uk/elll/people/profile/giuliamazzola.html), with expertise in Romance languages, corpus linguistics, language variation and change, historical (socio-)linguistics.
+
+My main research topics currently include: 
+
+* clause-combining
+* morphosyntactic alternations
+* voice-encoding strategies
+* stylistic and textual variation
+* quantitative methods for corpus linguistics.
+
+[Learn more about me &rarr;](/about){.about-links .subtitle}
+
 :::
-:::
 
-::: g-col-3
-![](images/portrait.jpg){width="100%"}
-:::
-:::
-
-## Vision
-
-As a language student, I was often struck by the overwhelming number of exceptions that came with rules. I soon learned that languages exhibit a **gradient behaviour**, and rules can just capture the endpoints of a continuum of possibilities\
-\
-The core of my research on language variation and change focuses on the “unexplored middle ground” between what is certainly possible and what is highly unlikely or impossible. From a probabilistic perspective, speakers have a statistical knowledge driving their choice of alternative linguistic forms in subtle ways. I investigate all aspects influencing the **variation and the trajectories of language change**: human processing abilities, frequency patterns, contextual features, social and discourse-pragmatic conventions.
