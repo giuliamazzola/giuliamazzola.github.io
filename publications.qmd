@@ -30,6 +30,10 @@ bibliography: publications.bib
 
 # Invited Lectures
 
+-   Sheehan, M., Mazzola, G. (2024). How autonimous is syntax? A micro-syntactic perspective. Invited talk given at the *Meaning and Grammar Research Group*, Edinburgh University, 5 November.
+
+-   Mazzola, G., Sheehan, M. (2024). Causation and perception: how similar are they? Invited talk at *Philosophy of Linguistics Workshop*, Durham University, 22 October. 
+
 -   Inglese, G., Mazzola, G. (2024). "Anticausatives in Italian and Spanish across time: a corpus-based perspective". Invited by Humboldt-Universität zu Berlin, *Colloquium Romanistische Linguistik*, Berlin.
 
 -   Mazzola, G. (2023). "La complementación asindética en español". Invited by University of Helsinki, Helsinki.
