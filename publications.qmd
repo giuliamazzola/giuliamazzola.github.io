@@ -46,6 +46,12 @@ bibliography: publications.bib
 
 # Conference Talks
 
+## 2024
+
+-   Mazzola, G. Processing constraints in competition: a case study of syndetic and asyndetic complements in Spanish. Presented at *Annual meeting of the Linguistics Association of Great Britain and Northern Ireland* (LAGB 2024, 27-30 August 2024), Newcastle University.
+
+-   Mazzola, G. La complementación asindética en el español (pre)clásico: ¿una influencia oriental?. Presented at the *VIII Congreso Internacional de la Red CHARTA* (19-21 June 2024), Universitat de les Illes Balears.
+
 ## 2023
 
 -   Inglese, G., Ferrarotti, L., Goria, E., Mazzola, G., Cornillie, B. "How do anticausatives spread: a contrastive historical study of Italian and Spanish". Presented at the workshop *Diachronic and Typological Perspectives on Anticausativization*, Università di Torino, Turin.
