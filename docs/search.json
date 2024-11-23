@@ -91,13 +91,6 @@
     "text": "I am a linguist, currently Research Associate at Newcastle University, with expertise in Romance languages, corpus linguistics, language variation and change, historical (socio-)linguistics.\nMy main research topics currently include:\n\nclause-combining\nmorphosyntactic alternations\nvoice-encoding strategies\nstylistic and textual variation\nquantitative methods for corpus linguistics\n\nLearn more about me →"
   },
   {
-    "objectID": "blogging.html",
-    "href": "blogging.html",
-    "title": "Blog posts",
-    "section": "",
-    "text": "Blog posts\n\nMarkey, M.A., Mazzola, G., Shaw, M., “The impostor’s voice: Causes of and remedies for pluralistic self-doubt”, in Becoming a researcher.\nMarkey, M.A., Mazzola, G., Shaw, M., “D-day, or how to survive and thrive at your PhD defence”, in Becoming a researcher.\nMeissl, K., Mazzola, G., Montes, M., “Bibliography chaos? Zotero your troubles away!”, in Becoming a researcher.\nMazzola, G., Kerkhof, A., “Doet mèn maah een bieahtje: het gebruik van mijn voor mij in het zeventiende-eeuwse Nederlands”, Online article in Neerlandistiek- online tijdschrift voor taal- en letterkunde."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "My vision",
@@ -126,137 +119,11 @@
     "text": "Today\nI am currently part of the research team of the Leverhulme Trust funded project “How autonomous is syntax? A case study of Romance causation and perception” (PI prof. Michelle Sheehan) on the syntax and semantics of causative and perception verbs, with a focus on micro variation across Romance varieties. The main aim of the project is to investigate the transparency of the syntax/semantics mapping in relation to causative (‘make’/‘let’) and perception verbs (‘see’/‘hear’/‘watch’) across Romance. Within this research team I am responsible for the data collection and analysis of Ibero-romance and Italo-romance varieties.\nTo learn more about this project, visit the CauRPe website."
   },
   {
-    "objectID": "cv_socfellows.html",
-    "href": "cv_socfellows.html",
-    "title": "CV",
+    "objectID": "blogging.html",
+    "href": "blogging.html",
+    "title": "Blog posts",
     "section": "",
-    "text": "My overarching research goal is to understand how people make use of ideophones and iconic affordances to construe meaning, which I study from a usage-based perspective through quantitative corpus analysis and experimental studies. My current GRF project, undertaken in collaboration with colleagues at HKU and Radboud University, focuses on the learnability of ideophones from a cross-linguistic perspective.\nMy PhD dissertation (2020) investigates the Chinese ideophonic lexicon through four different methodological lenses: multiple correspondence analysis, diachronic prototype semantics, semantic vector spaces, and collostructional analysis. A prototypical structuring of the ideophonic lexicon is found throughout the data, which were collected from corpora and the Chinese Ideophone Database (CHIDEOD), a freely accessible online database I constructed.\nMy research and teaching approaches focus heavily on turning data into meaningful models and visualizations, that highlight different perspectives inherent in the raw data. For this reason, I invest heavily in teaching students and peers how to wrangle data in the right shape with the programming language R, in order to communicate effectively what the data tell us."
-  },
-  {
-    "objectID": "cv_socfellows.html#book-chapters",
-    "href": "cv_socfellows.html#book-chapters",
-    "title": "CV",
-    "section": "Book chapters",
-    "text": "Book chapters\n[1] Van Hoey, Thomas. forthcoming. A semantic map for ideophones. In Thomas Fuyin Li (ed.) Handbook of Cognitive Semantics. Ch. 16. Leiden: Brill. (accepted, expected in 2022)\n[2] Van Hoey, Thomas & Chiarung Lu. 2019. Lexical variation of ideophones in Chinese classics: Their implications in embodiment and migration. In Janice Fon (ed.), Dimensions of diffusion and diversity, 195–226. (Cognitive Linguistics Research 63). Berlin; Boston: De Gruyter Mouton. doi: 10.1515/9783110610895"
-  },
-  {
-    "objectID": "cv_socfellows.html#refereed-articles",
-    "href": "cv_socfellows.html#refereed-articles",
-    "title": "CV",
-    "section": "Refereed articles",
-    "text": "Refereed articles\n[3] Thompson, Arthur Lewis, Thomas Van Hoey & Youngah Do. 2021. Articulatory features of phonemes pattern to iconic meanings: Evidence from cross-linguistic ideophones. Cognitive Linguistics 32(4)*. doi: 10.1515/cog-2020-0055 *Editor’s choice for this issue\n[4] Van Hoey, Thomas. forthcoming. The blending of bending: How we engage with the world of Avatar: The Last Airbender through memes. Metaphor and Symbol. (accepted).\n[5] Van Hoey, Thomas & Arthur Lewis Thompson. 2020. The Chinese Ideophone Database (CHIDEOD). Cahiers de Linguistique Asie Orientale 49(2). 136–167. doi: 10.1163/19606028-bja10006\n[6] Van Hoey, Thomas. 2018. Does the thunder roll? Mandarin Chinese meteorological expressions and their iconicity. Cognitive Semantics (4:2), 230-259. doi: 10.1163/23526416-00402003"
-  },
-  {
-    "objectID": "cv_socfellows.html#resources-and-data-sets",
-    "href": "cv_socfellows.html#resources-and-data-sets",
-    "title": "CV",
-    "section": "Resources and data sets",
-    "text": "Resources and data sets\n[7] Van Hoey, Thomas & Arthur Lewis Thompson. 2019. The Chinese ideophone database (CHIDEOD). CHIDEOD is accessible in .xlsx, .csv, .rds formats (doi: 10.17605/OSF.IO/KPWGF), as well as through a Shiny app interface."
-  },
-  {
-    "objectID": "cv_socfellows.html#theses",
-    "href": "cv_socfellows.html#theses",
-    "title": "CV",
-    "section": "Theses",
-    "text": "Theses\n[8] PhD thesis Linguistics (grade: A+) 2020 Prototypicality and salience of Chinese ideophones: A cognitive and corpus linguistics approach 漢語擬聲(態)詞的原型與顯著特徵：以認知與語料庫語言學方法探討\n[9] MA thesis Linguistics (grade: 17.4/20)2015 Ideophones in Middle Chinese: A typological study of a Tang dynasty poetic corpus\n\n[10] MA thesis Sinology (grade: 18.6/20)2014 The Guwen yundong 古文运动 (Classical Prose Movement) during Tang and Song: Ideological as well as Stylistic Innovation?"
-  },
-  {
-    "objectID": "cv_socfellows.html#publications-in-preparation",
-    "href": "cv_socfellows.html#publications-in-preparation",
-    "title": "CV",
-    "section": "Publications in preparation",
-    "text": "Publications in preparation\n[11] Van Hoey, Thomas. Tuples and prototypes of collocate-ideophone constructions like ABB in Mandarin.\n[12] Thomas Van Hoey. Converging evidence: ABB constructions in Mandarin analyzed in the corpus and rated in the experiment.\n[13] Do, Youngah*, Arthur Lewis Thompson*, Thomas Van Hoey* & Mark Dingemanse. Iconicity in ideophones: When memory fails, just guess. * co-first authors\n[14] Do, Youngah*, Arthur Lewis Thompson*, Thomas Van Hoey* & Mark Dingemanse. Teasing apart sound, meaning and gesture of ideophones in a transmission and iterated learning paradigm.\n* co-first authors\n[15] Van Hoey, Thomas. Onomatopoeia in Mandarin Chinese. In Lívia Körtvélyessy (ed.) Handbook of onomatapoeia."
-  },
-  {
-    "objectID": "cv_socfellows.html#invited-talks",
-    "href": "cv_socfellows.html#invited-talks",
-    "title": "CV",
-    "section": "Invited talks",
-    "text": "Invited talks\n[16] Van Hoey, Thomas. 2019. Defining Chinese ideophones: A family of constructions. International Workshop on Mimetics (Ideophones, Expressives) III: Crucibles of Mimetics. Nagoya: Nanzan University. 3 August 2019. doi:10.6084/m9.figshare.12651896\n[17] Van Hoey, Thomas. 2017. Chinese ideophones in historical corpora: A case study of mental space markers. Workshop on Mimetics II: New approaches to old questions. Nagoya: Nanzan University. 11 November 2017. Funding: MOST-106-2922-I-002-596. doi:10.6084/m9.figshare.5830341"
-  },
-  {
-    "objectID": "cv_socfellows.html#theme-sessions",
-    "href": "cv_socfellows.html#theme-sessions",
-    "title": "CV",
-    "section": "Theme sessions",
-    "text": "Theme sessions\n\n[18] Dingemanse, Mark, Arie Verhagen, Jonas Nölle & Thomas Van Hoey. 2019. Integrating iconicity: Recent work and future directions. ICLC 15 [International Cognitive Linguistics Conference], Nishinomiya: Kwansei Gakuin University. 6-11 August 2019. https://iclc2019.site/."
-  },
-  {
-    "objectID": "cv_socfellows.html#conference-presentations-oral",
-    "href": "cv_socfellows.html#conference-presentations-oral",
-    "title": "CV",
-    "section": "Conference presentations (oral)",
-    "text": "Conference presentations (oral)\n[19] Van Hoey, Thomas & Iju Hsu. 2020. Chinese ideophones in advertisements and social media: Motivated by multimodal metaphors. RaAM 13 [Association for Researching and Applying Metaphor] Virtual. Hamar: Inland Norway University. 18-21 June 2020. doi:10.6084/m9.figshare.12651890\n[20] Van Hoey, Thomas & Chiarung Lu. 2020. From ideational to interpersonal: A behavioral profile analysis of qǐlái 起來 in Modern Mandarin. CLDC 10 [Conference on Language, Discourse, and Cognition]. Taipei: National Taiwan University. 1-2 May 2020. https://sites.google.com/view/cldc10 (cancelled due to corona virus)\n[21] Van Hoey, Thomas & Chiarung Lu. 2019. Reduplication as a trigger of intersubjectivity: Mandarin Chinese ideophones and reduplication in the CHILDES corpora. ICLC 15 [International Cognitive Linguistics Conference], Nishinomiya: Kwansei Gakuin University. 6-11 August 2019. doi:10.6084/m9.figshare.12651902\n[22] Van Hoey, Thomas. 2019. Radiant suns, burning fires and brilliant flowers: The onomasiology and radical support of Chinese literary LIGHT ideophones. ICLC 15 [International Cognitive Linguistics Conference], Nishinomiya: Kwansei Gakuin University. 6-11 August 2019. Funding: NTU, College of Liberal Arts. doi:10.6084/m9.figshare.12652445\n[23] Van Hoey, Thomas & Arthur Lewis Thompson. 2019. Bridging phonology, meaning, and written form across time: Introducing a database of Chinese literary ideophones — CHIDEOD. ILL 12 [International Symposium on Iconicity in Language and Literature], Lund: Lund University. 3-5 May 2019. Funding: MOST-108-2922-I-002-198. doi:10.6084/m9.figshare.12651899\n[24] Van Hoey, Thomas & Chiarung Lu. 2018. All that glitters is not gold: Prototypical semantic change in shiny Literary Chinese ideophones. ICPEAL 17 [International Conference on the Processing of East Asian Languages]-CLDC 9 [Conference on Language, Discourse, and Cognition]. Taipei: National Taiwan University. 19-21 October 2018. doi:10.6084/m9.figshare.12652544\n[25] Van Hoey, Thomas. 2016. Ideophones in Old Chinese: The case of the Shijing 詩經. ISACG [International Symposium on Ancient Chinese Grammar] 9. Berlin: Humboldt University. 29-30 July 2016. doi:10.6084/m9.figshare.12651875\n[26] Van Hoey, Thomas. 2016. A diachronic analysis of ideophones in Chinese. Summer school in Chinese Digital Humanities. Leiden: Leiden University. 6-9 July 2016. doi:10.6084/m9.figshare.12652508\n[27] Van Hoey, Thomas & Chiarung Lu. 2016. The distribution of ideophones in Tang poems: A variationist perspective. CLDC [Conference on Language, Discourse, and Cognition] 8. Taipei: National Taiwan University.13-14 May 2016. doi:10.6084/m9.figshare.12651824"
-  },
-  {
-    "objectID": "cv_socfellows.html#conference-presentations-posters",
-    "href": "cv_socfellows.html#conference-presentations-posters",
-    "title": "CV",
-    "section": "Conference presentations (posters)",
-    "text": "Conference presentations (posters)\n[28] Van Hoey, Thomas. 2018. The blending of bending: Worldbuilding in Avatar: The Last Airbender and The Legend of Korra. RaAM [Association for Researching and Applying Metaphor] 12. Hong Kong: Hong Kong Polytechnic University. 27-30 June 2018. Funding: MOST-107-2922-I-002-237. doi:10.6084/m9.figshare.12652460\n[29] Van Hoey, Thomas. 2017. The thunder rolls: Iconicity and ideophones in Chinese meteorlogical expressions. CLS-MPI Iconicity Focus Group Workshop: Types of Iconicity in Language Use, Development and Processing. Nijmegen: Max Planck Institute for Psycholinguistics. 6-7 July 2017. Funding: NTU, College of Liberal Arts. doi:10.6084/m9.figshare.12652526\n[30] Van Hoey, Thomas. 2016. Ideophones in Premodern Chinese: Revisiting Dingemanse’s implicational hierarchy (poster). Mimetics in Japanese and other languages in the world (日本語と世界諸言語のオノマトペ). Tachikawa: NINJAL. 17-18 December 2016. Funding: MOST-105-2922-I-002-682. doi:10.6084/m9.figshare.12652514"
-  },
-  {
-    "objectID": "cv_socfellows.html#departmental-lectures",
-    "href": "cv_socfellows.html#departmental-lectures",
-    "title": "CV",
-    "section": "Departmental lectures",
-    "text": "Departmental lectures\n[31] Van Hoey, Thomas. 2021. Tuples and prototypes of collocate-ideophone constructions like ABB in Manarin Chinese. VLT talks. Hong Kong: University of Hong Kong. 29 June 2021.\n[32] Van Hoey, Thomas. 2017. A semantic map for ideophones: From an implicational hierarchy to the spinning top model. Brown Bag Lectures. Taipei: National Taiwan University. 26 April 2017."
-  },
-  {
-    "objectID": "cv_socfellows.html#contributions",
-    "href": "cv_socfellows.html#contributions",
-    "title": "CV",
-    "section": "Contributions",
-    "text": "Contributions\n[33] Van de Velde, Freek & Dirk Pijpops, in collaboration with Mathias De Backer, Wendy Feytons, Alek Keersmaekers, Veerle Monserez, Thomas Van Hoey, and Marie Vanwingh. 2016. Addressees use Zipf’s law as a cue for semantics. In Seán G. Roberts, Christine Cuskley, Luke McCrohon, Lluís Barceló-Coblijn, Olga Fehér & Tessa Verhoef (eds.), The evolution of language: Proceedings of the 11th international conference (EVOLANGX11). Online at http://evolang.org/neworleans/papers/117.html."
-  },
-  {
-    "objectID": "cv_socfellows.html#tutorials",
-    "href": "cv_socfellows.html#tutorials",
-    "title": "CV",
-    "section": "Tutorials",
-    "text": "Tutorials\n[34] Van Hoey, Thomas. 2021. R Tutorial for Linguistics Pioneering Initiative. National Taiwan University. 6 lectures during November 2021. (soon to be released on YouTube)\n[35] Van Hoey, Thomas. 2019. R bootcamp for lexical semanticists. Introduction to wrangling raw data to formats useable for further analysis using R. Seminar on Language and Culture 語言與文化專題研究.Taipei: National Taiwan University. 5 lectures during November 2019. blogpost"
-  },
-  {
-    "objectID": "cv_socfellows.html#broader-audiences",
-    "href": "cv_socfellows.html#broader-audiences",
-    "title": "CV",
-    "section": "Broader audiences",
-    "text": "Broader audiences\n[36] Van Hoey, Thomas & CJ Young. 2019. Language, culture, and cognition. Summer training camp for Taiwanese and Hong Kong high school representatives in the International Linguistics Olympiad. Taipei: Academia Sinica. 17 July 2019.\n[37] Van Hoey, Thomas. 2018. Austronesian languages. Summer training camp for Taiwanese high school representatives in the International Linguistics Olympiad. Chiayi: National Chungcheng University. 19 July 2018."
-  },
-  {
-    "objectID": "cv_socfellows.html#fellowships",
-    "href": "cv_socfellows.html#fellowships",
-    "title": "CV",
-    "section": "Fellowships",
-    "text": "Fellowships\n\n2019-2020 NTU, Financial Assistance Grant for International Students\n2018-2019 NTU, Financial Assistance Grant for International Students\n2015-2018 NTU, Research Fellowship for Outstanding International Doctoral Students\n2012-2013 Hanban scholarship"
-  },
-  {
-    "objectID": "cv_socfellows.html#travel-grants",
-    "href": "cv_socfellows.html#travel-grants",
-    "title": "CV",
-    "section": "Travel grants",
-    "text": "Travel grants\n\n2019 NTU, College of Liberal Arts\n2019 MOST-108-2922-I-002-198\n2018 MOST-107-2922-I-002-237\n2017 NTU, College of Liberal Arts\n2016 MOST-105-2922-I-002-682"
-  },
-  {
-    "objectID": "cv_socfellows.html#reviewing",
-    "href": "cv_socfellows.html#reviewing",
-    "title": "CV",
-    "section": "Reviewing",
-    "text": "Reviewing\n\nCognitive Linguistics\nPLoS\nLinguistics Vanguard\nCanadian Journal of Linguistics / Revue canadienne de linguistique\nGlossa\nHandbook of Cognitive Semantics\nJournal of Experimental Psychology: Learning, Memory, and Cognition\nMapping China Journal"
-  },
-  {
-    "objectID": "cv_socfellows.html#conference-organisation",
-    "href": "cv_socfellows.html#conference-organisation",
-    "title": "CV",
-    "section": "Conference organisation",
-    "text": "Conference organisation\nICPEAL 17 - CLDC 9 2018\nInternational Conference for the Processing of East Asian Languages and Conference on Language, Discourse, and Cognition http://homepage.ntu.edu.tw/~gilntu/icpeal2018cldc/ Role: coordinator of the student committee responsible for organizing the joint conference"
-  },
-  {
-    "objectID": "cv_socfellows.html#alumni",
-    "href": "cv_socfellows.html#alumni",
-    "title": "CV",
-    "section": "Alumni",
-    "text": "Alumni\nSinalumni (alumni association of Sinology students) 2015-ongoing Role: management of membership database and coordinating KU Leuven Connect"
+    "text": "Blog posts\n\nMarkey, M.A., Mazzola, G., Shaw, M., “The impostor’s voice: Causes of and remedies for pluralistic self-doubt”, in Becoming a researcher.\nMarkey, M.A., Mazzola, G., Shaw, M., “D-day, or how to survive and thrive at your PhD defence”, in Becoming a researcher.\nMeissl, K., Mazzola, G., Montes, M., “Bibliography chaos? Zotero your troubles away!”, in Becoming a researcher.\nMazzola, G., Kerkhof, A., “Doet mèn maah een bieahtje: het gebruik van mijn voor mij in het zeventiende-eeuwse Nederlands”, Online article in Neerlandistiek- online tijdschrift voor taal- en letterkunde."
   },
   {
     "objectID": "projects.html",
