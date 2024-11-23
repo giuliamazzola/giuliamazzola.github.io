@@ -39,7 +39,7 @@ My main research topics currently include:
 * morphosyntactic alternations
 * voice-encoding strategies
 * stylistic and textual variation
-* quantitative methods for corpus linguistics.
+* quantitative methods for corpus linguistics
 
 [Learn more about me &rarr;](/about){.about-links .subtitle}
 

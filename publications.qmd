@@ -4,15 +4,25 @@ bibliography: publications.bib
 
 # Peer-reviewed publications
 
--   Mazzola, Giulia, Stefano De Pascale, and Malte Rosemeyer. 2023. “Nuevas Herramientas En La Lingüística Diacrónica: Tradiciones Discursivas y Lingüística Computacional.” In *La Tradicionalidad Discursiva y La Lingüística de Corpus. Conceptos y Aplicaciones*, edited by Bert Cornillie, Giulia Mazzola, and Miriam Thegel, 89–118. Madrid/Frankfurt a.M.: Iberoamericana Vervuert.
-
--   Cornillie, Bert, Giulia Mazzola, and Miriam Thegel (eds.). 2023. *La Tradicionalidad Discursiva y La Lingüística de Corpus. Conceptos y Aplicaciones*. Madrid/Frankfurt a.M.: Iberoamericana Vervuert.
+## Journal Articles
 
 -   Mazzola, Giulia, Malte Rosemeyer, and Bert Cornillie. 2022. “Syntactic Alternations and Socio-Stylistic Constraints: The Case of Asyndetic Complementation in the History of Spanish.” *Journal of Historical Sociolinguistics* 8 (2): 197–235. <https://doi.org/10.1515/jhsl-2021-0026>.
 
 -   Mazzola, Giulia, Bert Cornillie, and Malte Rosemeyer. 2022. “Asyndetic Complementation and Referential Integration in Spanish: A Diachronic Probabilistic Grammar Account.” *Journal of Historical Linguistics* 12 (2): 194–240. <https://doi.org/10.1075/jhl.20031.maz>.
 
+## Edited Volumes
+
+-   Cornillie, Bert, Giulia Mazzola, and Miriam Thegel (eds.). 2023. *La Tradicionalidad Discursiva y La Lingüística de Corpus. Conceptos y Aplicaciones*. Madrid/Frankfurt a.M.: Iberoamericana Vervuert.
+
+## Book Chapters
+
+-   Mazzola, Giulia, Stefano De Pascale, and Malte Rosemeyer. 2023. “Nuevas Herramientas En La Lingüística Diacrónica: Tradiciones Discursivas y Lingüística Computacional.” In *La Tradicionalidad Discursiva y La Lingüística de Corpus. Conceptos y Aplicaciones*, edited by Bert Cornillie, Giulia Mazzola, and Miriam Thegel, 89–118. Madrid/Frankfurt a.M.: Iberoamericana Vervuert.
+
 -   Cornillie, Bert, and Giulia Mazzola. 2021. “A Sociopragmatic Account of the Se Passive in (Pre-)Classical Spanish.” In *Cognitive Sociolinguistics Revisited*, edited by Gitte Kristiansen, Karlien Franco, Stefano De Pascale, Laura Rosseel, and Weiwei Zhang, 226–41. Berlin: De Gruyter. <https://doi.org/10.1515/9783110733945-019>.
+
+# Non-peer-reviewed publications
+
+- Mazzola, Giulia. 2024. Las subordinadas asindéticas en sus orígenes: un análisis de la distribución geográfica en los siglos XV y XVI. In *Atlas Histórico del Español* (PI Andrés Enrique-Arias). [Online publication](https://atlashistorico.uib.es/cap/Mazzola1).
 
 # Work in progress
 
@@ -26,19 +36,19 @@ bibliography: publications.bib
 
 # PhD Thesis
 
--   Mazzola, Giulia. 2022. “Syndetic and Asyndetic Complementation in Spanish. A Diachronic Probabilistic Account.” PhD Thesis, Leuven: KU Leuven.
+-   Mazzola, Giulia. 2022. “Syndetic and Asyndetic Complementation in Spanish. A Diachronic Probabilistic Account.” PhD Thesis, Leuven: KU Leuven. [Download here](https://lirias.kuleuven.be/retrieve/688775)
 
 # Invited Lectures
 
--   Sheehan, M., Mazzola, G. (2024). How autonimous is syntax? A micro-syntactic perspective. Invited talk given at the *Meaning and Grammar Research Group*, Edinburgh University, 5 November.
+-   Sheehan, M., Mazzola, G. (2024). How autonomous is syntax? A micro-syntactic perspective. Invited talk given at the *Meaning and Grammar Research Group*, Edinburgh University, Edinburgh.
 
--   Mazzola, G., Sheehan, M. (2024). Causation and perception: how similar are they? Invited talk at *Philosophy of Linguistics Workshop*, Durham University, 22 October. 
+-   Mazzola, G., Sheehan, M. (2024). Causation and perception: how similar are they? Invited talk at *Philosophy of Linguistics Workshop*, Durham University, Durham.
 
 -   Inglese, G., Mazzola, G. (2024). "Anticausatives in Italian and Spanish across time: a corpus-based perspective". Invited by Humboldt-Universität zu Berlin, *Colloquium Romanistische Linguistik*, Berlin.
 
 -   Mazzola, G. (2023). "La complementación asindética en español". Invited by University of Helsinki, Helsinki.
 
--   Mazzola, G. (2022). "Approcci descrittivi e probabilistici alla linguistica dei corpora. Esempi applicati alla complementazione in spagnolo". Invited by Università di Torino. Torino.
+-   Mazzola, G. (2022). "Approcci descrittivi e probabilistici alla linguistica dei corpora. Esempi applicati alla complementazione in spagnolo". Invited by Università di Torino, Torino.
 
 -   Mazzola, G. (2022). "La Complementación asindética en Español: un estudio diacrónico". Invited by Freie Universität Berlin, Berlin.
 
@@ -58,11 +68,11 @@ bibliography: publications.bib
 
 -   Inglese, G., Mazzola, G., Ferrarotti, L., Goria, E., Cornillie, B. "The anticausative alternation in Italian and Spanish: a historical corpus-based perspective". Presented at the *International conference on Historical Linguistics* (ICHL26), Heidelberg.
 
--   Rosemeyer, M., Mazzola, G., and De Pascale, S. “A computational approach to detect discourse traditions and register differences: a case study on historical French”. 26^th^ *International Conference on Historical Linguistics* (ICHL26), Heidelberg.
+-   Rosemeyer, M., Mazzola, G., and De Pascale, S. “A computational approach to detect discourse traditions and register differences: a case study on historical French”. 26^th^ *International Conference on Historical Linguistics* (ICHL26), Heidelberg.
 
--   Inglese, G.,  Ferrarotti,  L.,  Goria, E., Mazzola, G., and Cornillie, B. “The anticausative alternation in Italian and Spanish: a historical corpus-based perspective”. Presented 56^th^ *Annual Meeting of the Societas Linguistica Europaea*, National and Kapodistrian University of Athens,Athens.
+-   Inglese, G., Ferrarotti, L., Goria, E., Mazzola, G., and Cornillie, B. “The anticausative alternation in Italian and Spanish: a historical corpus-based perspective”. Presented 56^th^ *Annual Meeting of the Societas Linguistica Europaea*, National and Kapodistrian University of Athens,Athens.
 
--   Mazzola, G. “Processing factors in contrast: a case study of syndetic and asyndetic complements in Spanish”. Presented 56^th^ *Annual Meeting of the Societas Linguistica Europaea*, National and Kapodistrian University of Athens,Athens.
+-   Mazzola, G. “Processing factors in contrast: a case study of syndetic and asyndetic complements in Spanish”. Presented 56^th^ *Annual Meeting of the Societas Linguistica Europaea*, National and Kapodistrian University of Athens, Athens.
 
 -   Mazzola, G., De Pascale, S., Rosemeyer, M. "A Computational Approach to Detect Discourse Traditions and Register Differences. A Case Study on Historical French". Presented at the *12th Historical Sociolinguistics Network conference*, Vrije Universiteit Brussel, Brussels.
 
@@ -84,7 +94,7 @@ bibliography: publications.bib
 
 -   Mazzola, G., De Pascale, S. “Nuevas herramientas en la lingüística diacrónica: tradiciones discursivas y lingüística computacional”. Presented at the workshop *Las Tradiciones Discursivas en tiempos de lingüística cuantitativa: ¿corrección epistemológica o deconstrucción metodológica?*, hosted by KU Leuven, online.
 
--   Cornillie, B., Mazzola, G., Thegel, M. "Las Tradiciones Discursivas en tiempos de lingüística cuantitativa: ¿corrección epistemológica? ¿deconstrucción metodológica?". Presented at the workshop *Las Tradiciones Discursivas en tiempos de lingüística cuantitativa: ¿corrección epistemológica o deconstrucción metodológica?,* hoster by KU Leuven, online.
+-   Cornillie, B., Mazzola, G., Thegel, M. "Las Tradiciones Discursivas en tiempos de lingüística cuantitativa: ¿corrección epistemológica? ¿deconstrucción metodológica?". Presented at the workshop *Las Tradiciones Discursivas en tiempos de lingüística cuantitativa: ¿corrección epistemológica o deconstrucción metodológica?,* hosted by KU Leuven, online.
 
 ## 2020
 
@@ -92,7 +102,7 @@ bibliography: publications.bib
 
 -   Mazzola, G., Cornillie, B., Rosemeyer, M., De Pascale, S. “Socio-stylistic aspects of syntactic variation: the case of Spanish asyndetic complementation (15^th^-18^th^ c.)”. Presented at the *53^rd^ Annual Meeting of the Societas Linguistica Europaea (SLE)*, online.
 
--   Mazzola, G., Cornillie, B., Rosemeyer, M. (2020). "La complementación asindética entre el S XV y el S XVIII: Variación socioestilística". Presented at the *Jornada digital de sintaxis española – Digital Workshop on Spanish Syntax*, hoster by Heinrich-Heine-Universität Düsseldorf, online.
+-   Mazzola, G., Cornillie, B., Rosemeyer, M. (2020). "La complementación asindética entre el S XV y el S XVIII: Variación socioestilística". Presented at the *Jornada digital de sintaxis española – Digital Workshop on Spanish Syntax*, hosted by Heinrich-Heine-Universität Düsseldorf, online.
 
 ## 2019
 
