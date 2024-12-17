@@ -25,7 +25,27 @@ Linguistics became my main academic interests, therefore I decided to pursue a R
 
 After my MA degree (2018), I moved to Belgium and joined the research project *Beyond the clause: enconding and inference in clause-combining* at KU Leuven, as a PhD student. In 2022 I defended my doctoral dissertation entitled *Syndetic and asyndetic complementation in Spanish a diachronic probabilistic account*.
 
-## Today
+## My PhD Research
+
+My dissertation focuses on the alternation between syndetic and asyndetic finite complement clauses in Spanish. Syndetic complements, introduced by an explicit complementizer que ‘that’, as in (1a), are the most frequent patterns of complementation in Present‑day Spanish. Alternatively, a complement clause can also be introduced asyndetically, i.e. without the complementizer que, as shown in (1b), where the absence of the complementizer is indicated by “Ø”.
+
+(1) a. Le ruego que me deje pasar
+
+      b. Le ruego Ø me deje pasar
+
+     ‘I beg you to let me pass’ (Lit. ‘I beg (that) you let me pass)
+
+      Inmaculada Alvear, El sonido de tu boca. Spain, 2005, Theatre play
+
+Asyndetic complementation has been considered a “syntactic fashion” (Pountain 2015) which spread starting from the 15th century and eventually lost popularity, becoming a marginal construction in Present-day Spanish. However, the grammatical, stylistic and social motivations that might have caused its spread and decline remain understudied. In this work, I rely on the concept of probabilistic grammar (Bod, Hay & Jannedy 2003; Bresnan 2007), by assuming that the constraints that regulate the syndetic/asyndetic alternation are probabilistic rather than categorical. Together with the analysis of language‑internal predictors, I consider the role of language-external factors, such as social power (Brown and Gilman 1960), style and Discourse Traditions. With this aim, I use descriptive and inferential statistics (mixed-effect logistic regression) to investigate the diachronic changes of the language-internal and language-external probabilistic constraints (Szmrecsanyi 2013a), in order to understand how they have affected the distribution of the variants.
+
+The dissertation is articulated in three case studies: two on historical data (15th to 18th centuries) from the corpus CODEA+2015 (GITHE 2015) and one on present-day data (21st century), based on a manually compiled written-corpus and on the spoken corpus PRESEEA (2014). The main results show that between the 15th and the 18th century the asyndetic variant was mainly used to mark a higher level of integration between main and subordinate clause (Mazzola, Cornillie & Rosemeyer 2022, cf. Givón 2001), and that the alternation is sensitive to processing constraints such as the Complexity Principle (Rohdenburg 1996) and the Domain Minimisation principle (Hawkins 1999; 2004). 
+
+From the socio-stylistic perspective, the alternation is influenced by external factors, such as the type of audience addressed (Bell 2001) and the Discourse Tradition of the document (Kabatek 2005). Asyndetic complementation was typically employed in speech acts which entailed a deferential request addressed to someone with higher social power (Mazzola, Rosemeyer & Cornillie 2022). Finally, the analysis of the 21st-century data confirms that the asyndetic construction is extremely infrequent and that the morphosyntactic and semantic constraints are affected by the decline to a larger extent, whereas processing constraints are conserved. From the constructional point of view, this indicated that the asyndetic construction underwent deschematisation: from an abstract subschema of complementation to a less schematic, lower-level construction (Croft 2003; Barðdal & Gildea 2015). I argue that this grammatical change can be attributed to external and “environmental” factors (Szmrecsanyi 2013b), such as the changes of its typical Discourse Traditions and environments, affected by the historical evolution of social conventions. 
+
+Overall, this dissertation has changed the view of Spanish asyndetic complements in terms of their chronology, probabilistic grammar and socio-stylistic distribution, and has contributed to the investigation of the intricate relationship between language change and social conventions. More specifically, this study improves our general understanding of syntactic alternations and their diachronic development by stressing the important role played by all sorts of predictors in the development of language variation and change, including: grammatical and processing constraints, momentary fancies, cultural contacts, social and ideological transformations.
+
+## My current research project
 
 I am currently part of the research team of the Leverhulme Trust funded project "How autonomous is syntax? A case study of Romance causation and perception" (PI prof. [Michelle Sheehan](https://www.ncl.ac.uk/elll/people/profile/michellesheehan1.html)) on the syntax and semantics of causative and perception verbs, with a focus on micro variation across Romance varieties. The main aim of the project is to investigate the transparency of the syntax/semantics mapping in relation to causative (‘make’/‘let’) and perception verbs (‘see’/‘hear’/‘watch’) across Romance. Within this research team I am responsible for the data collection and analysis of Ibero-romance and Italo-romance varieties.
 
