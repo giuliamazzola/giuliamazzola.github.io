@@ -17,6 +17,8 @@ website:
         text: "Projects"
       - href: blogging.qmd
         text: "Blogging"
+      - href: docs/Academic_CV/Mazzola_Academic_CV.pdf
+        text: "Full CV"
     
     right:
       - text: "{{< iconify ph:linktree-logo-bold >}}"
@@ -33,7 +35,9 @@ website:
 
 format:
   html:
-    theme: minty
+    theme: 
+      light: minty
+      dark: minty
     anchor-sections: true
     smooth-scroll: true
     link-external-newwindow: true

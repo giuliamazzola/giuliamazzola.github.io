@@ -23,25 +23,18 @@ about:
     - text: "{{< iconify academicons:google-scholar >}}"
       aria-label: "Google Scholar"
       href: https://scholar.google.com/citations?user=wPm6VMAAAAAJ&hl=en&oi=sra 
-
-
-
 ---
 
 ::: {#hero-heading}
-
-
 I am a linguist, currently [**Research Associate at Newcastle University**](https://www.ncl.ac.uk/elll/people/profile/giuliamazzola.html), with expertise in Romance languages, corpus linguistics, language variation and change, historical (socio-)linguistics.
 
-My main research topics currently include: 
+My main research topics currently include:
 
-* clause-combining
-* morphosyntactic alternations
-* voice-encoding strategies
-* stylistic and textual variation
-* quantitative methods for corpus linguistics
+-   clause-combining
+-   morphosyntactic alternations
+-   voice-encoding strategies
+-   stylistic and textual variation
+-   quantitative methods for corpus linguistics
 
-[Learn more about me &rarr;](/about){.about-links .subtitle}
-
+[Learn more about me →](/about){.about-links .subtitle}
 :::
-
