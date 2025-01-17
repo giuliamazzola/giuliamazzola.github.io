@@ -1,10 +1,12 @@
 # Fdb version 4
-["xdvipdfmx"] 1736948411.66743 "provapdf.xdv" "provapdf.pdf" "provapdf" 1736948412.41244 0
-  "provapdf.xdv" 1736948411 151280 0bed0d583ea1859e7b796faff4542c38 "xelatex"
+["xdvipdfmx"] 1737129775.37197 "Mazzola_Academic_CV.xdv" "Mazzola_Academic_CV.pdf" "Mazzola_Academic_CV" 1737129776.12822 0
+  "Mazzola_Academic_CV.xdv" 1737129775 157328 0f07c1994b77854cfd15295fa131a125 "xelatex"
   (generated)
-  "provapdf.pdf"
+  "Mazzola_Academic_CV.pdf"
   (rewritten before read)
-["xelatex"] 1736948408.72609 "provapdf.tex" "provapdf.xdv" "provapdf" 1736948412.40682 0
+["xelatex"] 1737129772.66944 "Mazzola_Academic_CV.tex" "Mazzola_Academic_CV.xdv" "Mazzola_Academic_CV" 1737129776.12268 0
+  "Mazzola_Academic_CV.aux" 1737129775 10126 2f2d06ae721c6da3058b7623cd7b1262 "xelatex"
+  "Mazzola_Academic_CV.tex" 1737129767 28692 e4f5a2255011b86b0ddbaa3e92a2d340 ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1736530882 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1718377473 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1736521681 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -195,10 +197,8 @@
   "c:/texlive/2024/texmf-dist/web2c/texmf.cnf" 1736521553 42021 a58d36c7ede3d2fc9f93da62d691ddff ""
   "c:/texlive/2024/texmf-var/web2c/xetex/xelatex.fmt" 1718377737 10868119 b8eeb586000bb957a8bae1cf04a39dea ""
   "c:/texlive/2024/texmf.cnf" 1736532825 713 e69b156964470283e0530f5060668171 ""
-  "provapdf.aux" 1736948411 10489 730fabd76bf9b4911aacd81d092561d6 "xelatex"
-  "provapdf.tex" 1736948403 28070 c9d9c82041938aa6aa7d23cc90ade5f0 ""
   (generated)
-  "provapdf.aux"
-  "provapdf.log"
-  "provapdf.xdv"
+  "Mazzola_Academic_CV.aux"
+  "Mazzola_Academic_CV.log"
+  "Mazzola_Academic_CV.xdv"
   (rewritten before read)

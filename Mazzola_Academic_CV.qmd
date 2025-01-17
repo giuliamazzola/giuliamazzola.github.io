@@ -1,7 +1,7 @@
 ---
 format:
   html:
-    theme: flatly
+    theme: minty
   PrettyPDF-pdf:
     pdf-engine: latexmk
     pdf-engine-opt: -xelatex
@@ -15,6 +15,7 @@ setwd(here::here())
 ```
 
 # Giulia Mazzola
+
 *she, lei, idda, ella, zij*
 
 [giulia.mazzola\@ncl.ac.uk](mailto:giulia.mazzola@ncl.ac.uk) \| [giuliamazzola.github.io](https://giuliamazzola.github.io/) \| ORCID:[0000-0002-7532-8671](https://orcid.org/0000-0002-7532-8671)</a>
@@ -26,7 +27,7 @@ I am a usage-based linguist and my research spans Cognitive Linguistics, Socioli
 ## Work Experience
 
 | Year              | Position                                     | Institution                 |
-|-------------------|---------------------------------|--------------------|
+|-------------------|----------------------------------------------|-----------------------------|
 | 06/2024 - Present | **Research Associate**                       | Newcastle University        |
 | 01/2023 - 06/2024 | **Postdoctoral Assistant**                   | KU Leuven                   |
 | 10/2018 - 12/2022 | **PhD student**                              | KU Leuven                   |
@@ -36,7 +37,7 @@ I am a usage-based linguist and my research spans Cognitive Linguistics, Socioli
 ## Education
 
 | Year        | Degree                                                  | Institution                       |
-|-------------------|--------------------------------|---------------------|
+|-------------|---------------------------------------------------------|-----------------------------------|
 | 2018 - 2022 | **PhD in Linguistics**                                  | KU Leuven                         |
 | 2015 - 2018 | **Research Master in Linguistics**                      | Universiteit Leiden               |
 | 2010 - 2014 | **Bachelor degree in Modern Languages and Literatures** | Università degli studi di Palermo |
@@ -45,7 +46,7 @@ I am a usage-based linguist and my research spans Cognitive Linguistics, Socioli
 
 #### Research Associate - [How autonomous is syntax? A case study of Romance causation and perception](https://www.caurpe.org/home)\newline
 
-2024-present, Newcastle University (UK) (PI Michelle Sheehan) 
+2024-present, Newcastle University (UK) (PI Michelle Sheehan)
 
 #### International collaborator - [Atlas Histórico del español](https://atlashistorico.uib.es/)\newline
 
@@ -53,7 +54,7 @@ I am a usage-based linguist and my research spans Cognitive Linguistics, Socioli
 
 #### International collaborator - [Historical and typological perspectives on anticausativization](https://sites.google.com/view/guglielmoinglese/research)\newline
 
-2022-2024, Università di Torino (IT) (PI Guglielmo Inglese) 
+2022-2024, Università di Torino (IT) (PI Guglielmo Inglese)
 
 #### PhD student - [Beyond the clause: encoding and inference in clause-combining](https://sites.google.com/view/beyondtheclause/home)\newline
 
@@ -161,6 +162,8 @@ March-May 2023, KU Leuven
 
 -   Inglese, G., Mazzola, G., Ferrarotti, L., Goria, E., Cornillie, B. "The anticausative alternation in Italian and Spanish: a historical corpus-based perspective". Presented at the *International conference on Historical Linguistics* (ICHL26), University of Heidelberg, Heidelberg.
 
+-   Inglese, G., Ferrarotti, L., Goria, E., Mazzola, G., and Cornillie, B. “The anticausative alternation in Italian and Spanish: a historical corpus-based perspective”. Presented 56^th^ *Annual Meeting of the Societas Linguistica Europaea*, National and Kapodistrian University of Athens, Athens.
+
 -   Mazzola, G. “Processing factors in contrast: a case study of syndetic and asyndetic complements in Spanish”. Presented 56^th^ *Annual Meeting of the Societas Linguistica Europaea*, National and Kapodistrian University of Athens, Athens.
 
 -   Mazzola, G., De Pascale, S., Rosemeyer, M. "A Computational Approach to Detect Discourse Traditions and Register Differences. A Case Study on Historical French". Presented at the *12th Historical Sociolinguistics Network conference*, Vrije Universiteit Brussel, Brussels.
@@ -205,12 +208,20 @@ March-May 2023, KU Leuven
 
 -   Mazzola, G., Kerkhof, A., [“Doet mèn maah een bieahtje: het gebruik van mijn voor mij in het zeventiende-eeuwse Nederlands”](https://neerlandistiek.nl/2019/03/doet-men-maah-een-bieahtje-het-gebruik-van-mijn-voor-mij-in-het-zeventiende-eeuwse-nederlands/), Online article in [*Neerlandistiek- online tijdschrift voor taal- en letterkunde*](https://neerlandistiek.nl/).
 
-## Skills
+## Service
+
+### Reviewing
+
+Topics: Morphosyntax, Romance languages, Historical Linguistics, Corpus Linguistics, Inferential Statistics, Complementation, Voice-encoding strategies
+
+Journals: - *Journal of Linguistics* - *Isogloss* - *Anuari de Filología* - *Journal of Pragmatics* - *Bulletin of Hispanic studies* - *STUF - Language Typology and Universals*
+
+## Skills and training
 
 ### Language skills
 
 | Language     | Level        | Certificate | Competence                                                                                  |
-|---------------|---------------|---------------|-----------------------------|
+|--------------|--------------|-------------|---------------------------------------------------------------------------------------------|
 | **Italian**  | Native       |             |                                                                                             |
 | **Sicilian** | Native       |             |                                                                                             |
 | **English**  | Fluent       | IELTS 7.0   | Full professional competence (peer-reviewing, publishing and teaching)                      |
@@ -221,7 +232,7 @@ March-May 2023, KU Leuven
 ### Technical skills
 
 | Category                        | Type                                        |
-|--------------------------------|----------------------------------------|
+|---------------------------------|---------------------------------------------|
 | Programming language            | R (advanced), Python and HTML (basic)       |
 | Document authoring tools        | Rmarkdown, Quarto, LateX, Obsidian, MS Word |
 | Data management and control     | Git, GitHub                                 |
@@ -230,30 +241,12 @@ March-May 2023, KU Leuven
 | Linguistics software            | ELAN, Praat, AntConc                        |
 | Productivity tools              | MS Office Suite, Slack, Google Workspace    |
 
+### Additional Training
 
-## Referees
-
-#### Prof. Bert Cornillie (KU Leuven):
-
-Blijdeinkomsstraat 21
-3000 Leuven (Belgium)
-
-bert.cornillie@kuleuven.be
-
-#### Prof. Malte Rosemeyer (FU Berlin):
-
-Habelschwerdter Allee 45
-14195 Berlin (Germany)
-
-malte.rosemeyer@fu-berlin.de
-
-
-#### Prof. Emeritus Chris Pountain (Queen Mary University of London):
-
-13 Leys Road
-Cambridge CB4 2AP
-(United Kingdom)
-
-c.j.pountain@qmul.ac.uk 
-
-
+-   LOT Summer School Utrecht 2016
+-   LOT Winter School Nijmegen 2017
+-   LOT Summer School Leiden 2017
+-   LOT Winter School Amsterdam 2019
+-   Fundamental Statistics KU Leuven 2019
+-   Advanced R Programming KU Leuven 2020
+-   Web Development Workshop Newcastle 2024
