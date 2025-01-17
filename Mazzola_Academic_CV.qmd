@@ -26,18 +26,18 @@ I am a usage-based linguist and my research spans Cognitive Linguistics, Socioli
 
 ## Work Experience
 
-| Year              | Position                                     | Institution                 |
-|-------------------|----------------------------------------------|-----------------------------|
-| 06/2024 - Present | **Research Associate**                       | Newcastle University        |
-| 01/2023 - 06/2024 | **Postdoctoral Assistant**                   | KU Leuven                   |
-| 10/2018 - 12/2022 | **PhD student**                              | KU Leuven                   |
-| 11/2017 - 02/2018 | **Teacher of Italian as a Foreign Language** | Volksuniversiteit Rotterdam |
-| 10/2016 - 05/2017 | **Internship Foreign Language Teaching**     | Universiteit Leiden         |
+| Year              | Position                                     | Institution                  |
+|-----------------|----------------------------------|---------------------|
+| 06/2024 - Present | **Research Associate**                       | Newcastle University         |
+| 01/2023 - 06/2024 | **Postdoctoral Assistant**                   | KU Leuven                    |
+| 10/2018 - 12/2022 | **PhD student**                              | KU Leuven                    |
+| 11/2017 - 02/2018 | **Teacher of Italian as a Foreign Language** | RotterdamseVolksuniversiteit |
+| 10/2016 - 05/2017 | **Internship Foreign Language Teaching**     | Universiteit Leiden          |
 
 ## Education
 
 | Year        | Degree                                                  | Institution                       |
-|-------------|---------------------------------------------------------|-----------------------------------|
+|----------------|------------------------------------|---------------------|
 | 2018 - 2022 | **PhD in Linguistics**                                  | KU Leuven                         |
 | 2015 - 2018 | **Research Master in Linguistics**                      | Universiteit Leiden               |
 | 2010 - 2014 | **Bachelor degree in Modern Languages and Literatures** | Università degli studi di Palermo |
@@ -208,8 +208,6 @@ March-May 2023, KU Leuven
 
 -   Mazzola, G., Kerkhof, A., [“Doet mèn maah een bieahtje: het gebruik van mijn voor mij in het zeventiende-eeuwse Nederlands”](https://neerlandistiek.nl/2019/03/doet-men-maah-een-bieahtje-het-gebruik-van-mijn-voor-mij-in-het-zeventiende-eeuwse-nederlands/), Online article in [*Neerlandistiek- online tijdschrift voor taal- en letterkunde*](https://neerlandistiek.nl/).
 
-## Service
-
 ### Reviewing
 
 Topics: Morphosyntax, Romance languages, Historical Linguistics, Corpus Linguistics, Inferential Statistics, Complementation, Voice-encoding strategies
@@ -221,7 +219,7 @@ Journals: - *Journal of Linguistics* - *Isogloss* - *Anuari de Filología* - *Jo
 ### Language skills
 
 | Language     | Level        | Certificate | Competence                                                                                  |
-|--------------|--------------|-------------|---------------------------------------------------------------------------------------------|
+|-----------|-----------|-----------|-----------------------------------------|
 | **Italian**  | Native       |             |                                                                                             |
 | **Sicilian** | Native       |             |                                                                                             |
 | **English**  | Fluent       | IELTS 7.0   | Full professional competence (peer-reviewing, publishing and teaching)                      |
@@ -232,7 +230,7 @@ Journals: - *Journal of Linguistics* - *Isogloss* - *Anuari de Filología* - *Jo
 ### Technical skills
 
 | Category                        | Type                                        |
-|---------------------------------|---------------------------------------------|
+|-------------------------------|-----------------------------------------|
 | Programming language            | R (advanced), Python and HTML (basic)       |
 | Document authoring tools        | Rmarkdown, Quarto, LateX, Obsidian, MS Word |
 | Data management and control     | Git, GitHub                                 |
