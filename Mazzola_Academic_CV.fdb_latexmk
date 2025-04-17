@@ -1,12 +1,12 @@
 # Fdb version 4
-["xdvipdfmx"] 1737129993.30034 "Mazzola_Academic_CV.xdv" "Mazzola_Academic_CV.pdf" "Mazzola_Academic_CV" 1737129994.02643 0
-  "Mazzola_Academic_CV.xdv" 1737129993 157052 1c83aa34fb64c42a493c276e5a681f72 "xelatex"
+["xdvipdfmx"] 1737990918.3646 "Mazzola_Academic_CV.xdv" "Mazzola_Academic_CV.pdf" "Mazzola_Academic_CV" 1737990919.33211 0
+  "Mazzola_Academic_CV.xdv" 1737990917 164988 85ef02b84e13e7a67ae0ddc9dd2adadc "xelatex"
   (generated)
   "Mazzola_Academic_CV.pdf"
   (rewritten before read)
-["xelatex"] 1737129990.57144 "Mazzola_Academic_CV.tex" "Mazzola_Academic_CV.xdv" "Mazzola_Academic_CV" 1737129994.02027 0
-  "Mazzola_Academic_CV.aux" 1737129993 9974 9ec88c8dd40ffd38ecbd437df3947667 "xelatex"
-  "Mazzola_Academic_CV.tex" 1737129985 28656 7d7db8bcc5390f698d962f0e2d966b07 ""
+["xelatex"] 1737990914.69562 "Mazzola_Academic_CV.tex" "Mazzola_Academic_CV.xdv" "Mazzola_Academic_CV" 1737990919.31944 0
+  "Mazzola_Academic_CV.aux" 1737990917 10141 35d2c9c8c2addd84d91f6b209c7a30ea "xelatex"
+  "Mazzola_Academic_CV.tex" 1737990908 29485 d46dafa322310e03c08531643c7754fb ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1736530882 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1718377473 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1736521681 916 f87d7c45f9c908e672703b83b72241a3 ""
