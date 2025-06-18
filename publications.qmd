@@ -34,6 +34,13 @@ bibliography: publications.bib
 
 - Mazzola, Giulia, Guglielmo Inglese. "Causalness, frequency, diachrony and the causal-noncausal alternation in Italian and Spanish". *Corpus linguistics and linguistic theory*. 
 
+## In preparation
+
+Mazzola, Giulia. "Processing constraints in competition: a case study of syndetic and asyndetic complements in Spanish". *Cognitive Linguistics*.
+
+Mazzola, Giulia, Stefano De Pascale, Malte Rosemeyer. "Document-based Vector Space Models predict diffusion in language change better than genre classifications". *Linguistic Vanguard*.
+
+
 # PhD Thesis
 
 -   Mazzola, Giulia. 2022. “Syndetic and Asyndetic Complementation in Spanish. A Diachronic Probabilistic Account.” PhD Thesis, Leuven: KU Leuven. [Download here](https://lirias.kuleuven.be/retrieve/688775)
