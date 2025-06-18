@@ -26,15 +26,13 @@ bibliography: publications.bib
 
 # Work in progress
 
-## Submitted
+## Accepted
 
 -   Inglese, Guglielmo, Eugenio Goria and Giulia Mazzola (eds.). *Diachronic and Typological Perspectives on Anticausativization*. Series: *Typological Studies in Language*. Amsterdam: John Benjamins.
 
 -   Inglese, Guglielmo, Giulia Mazzola, Eugenio Goria, Lorenzo Ferrarotti and Bert Cornillie. (forthc.) "Anticausativization and lability in Romance: a historical corpus study on Spanish and Italian". In Inglese, Guglielmo, Eugenio Goria and Giulia Mazzola (eds.), *Diachronic and Typological Perspectives on Anticausativization* (series *Typological Studies in Language)*. Amsterdam: John Benjamins.
 
-## In preparation
-
-- Mazzola, Giulia, Guglielmo Inglese. Forthcoming. "Causalness, frequency, diachrony and the causal-noncausal alternation in Italian and Spanish". *Corpus linguistics and linguistic theory*. 
+- Mazzola, Giulia, Guglielmo Inglese. "Causalness, frequency, diachrony and the causal-noncausal alternation in Italian and Spanish". *Corpus linguistics and linguistic theory*. 
 
 # PhD Thesis
 
