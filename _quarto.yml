@@ -16,7 +16,7 @@ website:
       - href: projects.qmd
         text: "Projects"
       - href: blogging.qmd
-        text: "Blogging"
+        text: "Tutorials and Blogging"
       - href: Mazzola_Academic_CV.qmd
         text: "Full CV"
     
