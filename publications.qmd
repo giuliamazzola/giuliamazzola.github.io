@@ -6,40 +6,41 @@ bibliography: publications.bib
 
 ## Journal Articles
 
+- Mazzola, Giulia and Inglese, Guglielmo. 2026. "Causalness, frequency, diachrony and the causal–noncausal alternation in Italian and Spanish". *Corpus Linguistics and Linguistic Theory*. https://doi.org/10.1515/cllt-2025-0038
+                    
 -   Mazzola, Giulia, Malte Rosemeyer, and Bert Cornillie. 2022. “Syntactic Alternations and Socio-Stylistic Constraints: The Case of Asyndetic Complementation in the History of Spanish.” *Journal of Historical Sociolinguistics* 8 (2): 197–235. <https://doi.org/10.1515/jhsl-2021-0026>.
 
 -   Mazzola, Giulia, Bert Cornillie, and Malte Rosemeyer. 2022. “Asyndetic Complementation and Referential Integration in Spanish: A Diachronic Probabilistic Grammar Account.” *Journal of Historical Linguistics* 12 (2): 194–240. <https://doi.org/10.1075/jhl.20031.maz>.
 
 ## Edited Volumes
 
+- Inglese, Guglielmo, Eugenio Goria and Giulia Mazzola (eds.). 2026. *Diachronic and Typological Perspectives on Anticausativization*. Series: *Typological Studies in Language*. Amsterdam: John Benjamins.
+
 -   Cornillie, Bert, Giulia Mazzola, and Miriam Thegel (eds.). 2023. *La Tradicionalidad Discursiva y La Lingüística de Corpus. Conceptos y Aplicaciones*. Madrid/Frankfurt a.M.: Iberoamericana Vervuert.
 
 ## Book Chapters
 
--   Mazzola, Giulia, Stefano De Pascale, and Malte Rosemeyer. 2023. “Nuevas Herramientas En La Lingüística Diacrónica: Tradiciones Discursivas y Lingüística Computacional.” In *La Tradicionalidad Discursiva y La Lingüística de Corpus. Conceptos y Aplicaciones*, edited by Bert Cornillie, Giulia Mazzola, and Miriam Thegel, 89–118. Madrid/Frankfurt a.M.: Iberoamericana Vervuert.
+- Inglese, Guglielmo, Giulia Mazzola, Eugenio Goria. 2026. "What is an anticausative marker and where do anticausative markers come from?". In Inglese, Guglielmo, Eugenio Goria and Giulia Mazzola (eds.), *Diachronic and Typological Perspectives on Anticausativization* (series *Typological Studies in Language)*, 1-24. Amsterdam: John Benjamins. <https://doi.org/10.1075/tsl.138.01ing> 
 
--   Cornillie, Bert, and Giulia Mazzola. 2021. “A Sociopragmatic Account of the Se Passive in (Pre-)Classical Spanish.” In *Cognitive Sociolinguistics Revisited*, edited by Gitte Kristiansen, Karlien Franco, Stefano De Pascale, Laura Rosseel, and Weiwei Zhang, 226–41. Berlin: De Gruyter. <https://doi.org/10.1515/9783110733945-019>.
+-   Inglese, Guglielmo, Giulia Mazzola, Eugenio Goria, Lorenzo Ferrarotti and Bert Cornillie. (2026) "Anticausativization and lability in Romance: A contrastive historical study of Italian and Spanish". In Inglese, Guglielmo, Eugenio Goria and Giulia Mazzola (eds.), *Diachronic and Typological Perspectives on Anticausativization* (series *Typological Studies in Language)*, 286-331. Amsterdam: John Benjamins. <https://doi.org/10.1075/tsl.138.10ing>
+
+-   Mazzola, Giulia, Stefano De Pascale, and Malte Rosemeyer. 2023. “Nuevas Herramientas En La Lingüística Diacrónica: Tradiciones Discursivas y Lingüística Computacional.” In Cornillie, Bert, Giulia Mazzola and Miriam Thegel (eds.), *La Tradicionalidad Discursiva y La Lingüística de Corpus. Conceptos y Aplicaciones*, 89–118. Madrid/Frankfurt a.M.: Iberoamericana Vervuert.
+
+-   Cornillie, Bert, and Giulia Mazzola. 2021. “A Sociopragmatic Account of the Se Passive in (Pre-)Classical Spanish.” In Kristiansen, Gitte, Karlien Franco, Stefano De Pascale, Laura Rosseel, and Weiwei Zhang (eds.), *Cognitive Sociolinguistics Revisited*, 226–41. Berlin: De Gruyter. <https://doi.org/10.1515/9783110733945-019>.
 
 # Non-peer-reviewed publications
 
-- Mazzola, Giulia. 2024. Las subordinadas asindéticas en sus orígenes: un análisis de la distribución geográfica en los siglos XV y XVI. In *Atlas Histórico del Español* (PI Andrés Enrique-Arias). [Online publication](https://atlashistorico.uib.es/cap/Mazzola1).
+-   Mazzola, Giulia. 2024. Las subordinadas asindéticas en sus orígenes: un análisis de la distribución geográfica en los siglos XV y XVI. In *Atlas Histórico del Español* (PI Andrés Enrique-Arias). [Online publication](https://atlashistorico.uib.es/cap/Mazzola1).
 
 # Work in progress
 
 ## Accepted
 
--   Inglese, Guglielmo, Eugenio Goria and Giulia Mazzola (eds.). *Diachronic and Typological Perspectives on Anticausativization*. Series: *Typological Studies in Language*. Amsterdam: John Benjamins.
-
--   Inglese, Guglielmo, Giulia Mazzola, Eugenio Goria, Lorenzo Ferrarotti and Bert Cornillie. (forthc.) "Anticausativization and lability in Romance: a historical corpus study on Spanish and Italian". In Inglese, Guglielmo, Eugenio Goria and Giulia Mazzola (eds.), *Diachronic and Typological Perspectives on Anticausativization* (series *Typological Studies in Language)*. Amsterdam: John Benjamins.
-
-- Mazzola, Giulia, Guglielmo Inglese. "Causalness, frequency, diachrony and the causal-noncausal alternation in Italian and Spanish". *Corpus linguistics and linguistic theory*. 
+-  Mazzola, Giulia, Stefano De Pascale, Malte Rosemeyer. "Document-based Vector Space Models predict diffusion in language change better than genre classifications". *Corpus linguistics and linguistic theory*.
 
 ## In preparation
 
 Mazzola, Giulia. "Processing constraints in competition: a case study of syndetic and asyndetic complements in Spanish". *Cognitive Linguistics*.
-
-Mazzola, Giulia, Stefano De Pascale, Malte Rosemeyer. "Document-based Vector Space Models predict diffusion in language change better than genre classifications". *Linguistic Vanguard*.
-
 
 # PhD Thesis
 
@@ -64,8 +65,6 @@ Mazzola, Giulia, Stefano De Pascale, Malte Rosemeyer. "Document-based Vector Spa
 # Conference Talks
 
 ## 2025
-
-
 
 ## 2024
 
